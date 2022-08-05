@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tavaresgmg
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning HTML, CSS 
+- 👀 I’m interested in Dev.
+- 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on basic project
 - 📫 How to reach me tavaresgmg@gmail.com
 
