@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Guilherme Tavares</h1>
 <h3 align="center">Computer science student at the University Federal of Goiás and passionate about technology!</h3>
 
+- 🌱 I’m currently learning **C language and Python**
+
+- 👯 I’m looking to collaborate on **Project with algoritm and network**
+
 - 📫 How to reach me **tavaresgmg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
