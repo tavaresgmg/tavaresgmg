@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C language and Python**
 
-- 👯 I’m looking to collaborate on **Project with algoritm and network**
+- 👯 I’m looking to collaborate on **Project with algorithm and network**
 
 - 📫 How to reach me **tavaresgmg@gmail.com**
 
