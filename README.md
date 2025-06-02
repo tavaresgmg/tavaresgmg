@@ -1,10 +1,10 @@
 # 👋 Guilherme Tavares
-### CTO | Python & FastAPI Specialist | 8x Hackathon Winner | Building Urban Mobility Solutions at 100k+ Scale
+### CTO | Python & FastAPI Specialist | 9x Hackathon Champion | Building Urban Mobility Solutions at 100k+ Scale
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tavaresgmg)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@tavaresgmg.dev)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tavaresgmg@gmail.com)
 [![Website](https://img.shields.io/badge/-Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://tavaresgmg.dev)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tavaresgmg&color=brightgreen&style=flat-square)
@@ -15,14 +15,17 @@
 
 ## 🚀 About Me
 
-**Diretor Tecnológico hands-on** na FUPII, startup pioneira em transporte individual premium em Goiânia, única no Brasil com sistema de vistoria integral de veículos. Especializado em **Python/FastAPI** para arquiteturas de alta performance e escalabilidade.
+**Visionary CTO & Full-Stack Architect** leading technological innovation at FUPII, Brazil's pioneering premium transportation startup. Expert in building **scalable, high-performance systems** that serve 100K+ users while maintaining exceptional reliability and user experience.
 
-- 🔥 **8x Hackathon Winner** | 3º lugar AgroStartup 2025 (Maior hackathon agro do Brasil)
-- 🏗️ **Leading tech team of 8 professionals** implementing agile methodologies
-- ⚡ **Building high-performance APIs** processing thousands of simultaneous requests
-- 🌱 **Blockchain enthusiast** | Hyperledger Fabric for agricultural traceability
-- 🎯 **100K+ users** mobile apps | React Native & Flutter expert
-- 🤝 **Mentor voluntário** no Hub Goiás Innovation Program
+**🏆 Championship Track Record:** Proven winner with **9 consecutive hackathon victories**, including top placements at Brazil's most prestigious tech competitions. Demonstrated ability to deliver innovative solutions under pressure while leading cross-functional teams to victory.
+
+- 🔥 **9x Hackathon Champion** | 3º lugar AgroStartup 2025 (Brazil's largest agtech hackathon)
+- 🚀 **Tech Leadership Excellence** | Managing 8+ engineers implementing cutting-edge solutions
+- ⚡ **Performance Engineering** | Architecting APIs processing millions of concurrent requests
+- 🌱 **Blockchain Pioneer** | Leading agricultural traceability with Hyperledger Fabric
+- 📱 **Mobile Innovation** | Building React Native & Flutter apps serving 100K+ active users
+- 🎯 **Strategic Vision** | Transforming traditional industries through technology
+- 🤝 **Community Impact** | Mentor at Hub Goiás Innovation Program, nurturing next-gen talent
 
 ---
 
@@ -159,7 +162,7 @@ Sistema backend completo para startup de transporte premium com **100K+ usuário
 ## 📫 Let's Connect!
 
 - 💼 **LinkedIn**: [/in/tavaresgmg](https://linkedin.com/in/tavaresgmg)
-- 📧 **Email**: contact@tavaresgmg.dev
+- 📧 **Email**: tavaresgmg@gmail.com
 - 🌐 **Portfolio**: tavaresgmg.dev
 - 📱 **Location**: Goiânia, Goiás, Brasil
 
@@ -167,9 +170,11 @@ Sistema backend completo para startup de transporte premium com **100K+ usuário
 
 <div align="center">
 
-### 🚀 "Building the future through code, one solution at a time"
+### 🚀 "From hackathon champion to industry leader - transforming ideas into scalable solutions"
 
-**Open to new opportunities** | **Available for consulting** | **Passionate about innovation**
+**9x Champion mindset** | **Enterprise-scale expertise** | **Innovation-driven leadership**
+
+**Open to new opportunities** | **Available for consulting** | **Ready to lead your next breakthrough**
 
 </div>
 
