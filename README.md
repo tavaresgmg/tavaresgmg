@@ -1,5 +1,4 @@
 # Guilherme Tavares
-**Software Developer @ AUVO | 11x Hackathon Winner**
 
 Passionate developer with 11 hackathon wins. Currently at AUVO Tecnologia building solutions that impact thousands of users. Deep experience architecting scalable applications with React, TypeScript, and the modern JavaScript ecosystem.
 
