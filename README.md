@@ -65,9 +65,13 @@ Full-Stack Software Engineer with experience delivering production systems for b
 
 ## GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tavaresgmg&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresgmg&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tavaresgmg&theme=github" alt="GitHub stats summary card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tavaresgmg&theme=github" alt="Top languages summary card" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tavaresgmg&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 </p>
 
 ## Contact
