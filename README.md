@@ -13,7 +13,7 @@
 
 Full-Stack Software Engineer with experience delivering production systems for both enterprise and startup environments, working end-to-end across backend, frontend, and integrations.
 
-- Currently at **AUVO** (platform used by 6,000+ companies and 80,000+ users across Latin America).
+- Strong experience delivering production systems for enterprise and startup environments.
 - Strong in API architecture, BFF, real-time systems, and impact-driven product delivery.
 - 11x podiums in hackathons/datathons/ideathons (2023-2025).
 
