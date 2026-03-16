@@ -6,7 +6,6 @@
 <p align="center">
   <a href="https://github.com/tavaresgmg?tab=followers"><img src="https://img.shields.io/github/followers/tavaresgmg?style=flat-square" alt="Followers" /></a>
   <a href="https://github.com/tavaresgmg?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-17-181717?style=flat-square&logo=github" alt="Public Repos" /></a>
-  <a href="https://www.linkedin.com/in/tavaresgmg/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ## About
@@ -74,10 +73,4 @@ Full-Stack Software Engineer with experience delivering production systems for b
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tavaresgmg&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 </p>
 
-## Contact
 
-- LinkedIn: [linkedin.com/in/tavaresgmg](https://www.linkedin.com/in/tavaresgmg/)
-- GitHub: [github.com/tavaresgmg](https://github.com/tavaresgmg)
-- Email: [tavaresgmg@gmail.com](mailto:tavaresgmg@gmail.com)
-
-> Open to collaborations, impact-driven projects, and remote opportunities.
